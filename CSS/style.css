@@ -333,6 +333,10 @@ span:hover{
     font-size: 16px;
 }
 
+.listin-title:hover{
+    color: #9C6CC5;
+}
+
 .listin-title p{
     color: #000;
 }
